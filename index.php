@@ -104,7 +104,7 @@ o.style.backgroundColor="yellow";
 </section>
 <section>
 <h3>Source code| Исходный код</h3>
-Исходный код доступен по ссылке:
+Исходный PHP код доступен по ссылке:
 <a href="https://nick-voskoboinikov.github.io/sf-comparison_table/index.php" download="NVoskoboinikov_comparisonTable.php">Ссылка на github</a>
 </section>
 	</body>
